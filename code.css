@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    
+}
+body{
+    background-color: rgb(27, 27, 87);
+}
+#navbar {
+    height: 60px;
+    background-color:#0f1111;
+    margin-top: 60px;
+    border: 10px,solid,white;
+    
+  
+}
+button{
+    background-color:#f08804;
+}
+
+#amazon {
+    color: #f08804;
+  font-size: 25px;
+   margin-right:150px;
+}
+
+#account{
+    margin-right: 200px;
+
+
+}
+
+#cart{
+    margin-right: 300px;
+
+}
+#contact{
+    margin-right: 150px;
+
+}
